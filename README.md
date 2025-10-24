@@ -6,7 +6,7 @@ I got you covered! Atleast, hopefully :D
 
 Requirements
 ------
-1. A Windows PC with Administrative permissions
+1. A Windows PC with Administrative rights
 2. A (USB-A or USB-C) to USB-C cable
 2. Comma 2 in Fastboot mode (holding `"Power + Volume -"` when plugging in USB-C cable)
 3. Have ADB installed so you can see the Comma2 device in Fastboot mode (Open CMD and execute: `fastboot devices` )
