@@ -9,8 +9,10 @@ Requirements
 ------
 1. A Windows PC with Administrative rights
 2. A (USB-A or USB-C) to USB-C cable
-2. Comma 2 in Fastboot mode (holding `"Power + Volume -"` when plugging in USB-C cable)
-3. Have ADB installed so you can see the Comma2 device in Fastboot mode (Open CMD and execute: `fastboot devices` )
+3. Atleast 5GB or more free diskspace
+4. Internet connection (to download 3.5GB of the needed files) 
+5. Comma 2 in Fastboot mode (holding `"Power + Volume -"` when plugging in USB-C cable)
+6. Have ADB installed so you can see the Comma2 device in Fastboot mode (Open CMD and execute: `fastboot devices` )
 
 
 Reflashing NEOS for Comma2
