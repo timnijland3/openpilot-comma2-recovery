@@ -19,7 +19,7 @@ Reflashing NEOS for Comma2
 ------
 1. All requirements above are met
 2. Download and extract [this](https://github.com/timnijland3/openpilot-comma2-recovery/archive/refs/heads/main.zip) repository
-3. Download all the `.img` files from Mega.nz and store them in the files/ directory like in this picture:
+3. Download all the `.img` files from Mega.nz and store them in the files/ directory like in the picture:
     - [boot.img](https://mega.nz/file/aUUTQSJL#nJauYOIbKwWFVp3MGjqqdxiY36ccwTxQFWsUMfxz-_s)
     - [recovery.img](https://mega.nz/file/mN12DRzL#139jBwBAKxxtFlFARI-nLSWzK54VKc9-fWFWunnRFlY)
     - [system.img](https://mega.nz/file/yUkRQLKT#e3A72hE7H584zhxNy5CWiJGKBBHNnvK2tZu3uPonxj4)
